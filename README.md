@@ -70,8 +70,6 @@ The project follows a **modular, reusable component structure** for scalability 
 ---
 
 ## 🧰 Installation & Setup
-
-```bash
 **Clone the repository**
 git clone https://github.com/yourusername/engineerhub-cadence.git
 
@@ -85,35 +83,30 @@ npm install
 npm run dev
 
 ---
+## 💻 Technologies Used
 
-### 💻 Technologies Used
-
-**React**: v18.x
-
-**Tailwind CSS**: v3.x
-
-**Vite**: for fast development and build optimization
-
-**Framer Motion**: for subtle UI animations (if applicable)
-
-**Axios**: for API data fetching (if applicable)
+- **React**: v18.x
+- **Tailwind CSS**: v3.x
+-  **Vite**: for fast development and build optimizatio
+- **Framer Motion**: for subtle UI animations (if applicable)
+- **Axios**: for API data fetching (if applicable)
 
 ---
 
-### 🧠 Challenges & Solutions
+## 🧠 Challenges & Solutions
 
--**Challenge**: Ensuring consistent responsiveness across multiple screen sizes
+- **Challenge**: Ensuring consistent responsiveness across multiple screen sizes
 Solution: Used Tailwind’s responsive utilities (sm:, md:, lg:) and grid/flex layouts to adapt seamlessly.
 
--**Challenge**: Maintaining performance with multiple high-quality images
+- **Challenge**: Maintaining performance with multiple high-quality images
 Solution: Compressed images and implemented lazy loading for product sections.
 
--**Challenge**: Creating a scalable design system
+- **Challenge**: Creating a scalable design system
 Solution: Centralized colors, typography, and spacing in the Tailwind configuration file for consistency and easy updates.
 
 ---
 
-### 🚧 Future Improvements
+## 🚧 Future Improvements
 
 -Integrate E-commerce functionality with a payment gateway (Stripe or PayPal).
 -Add user authentication and order history.
