@@ -1,0 +1,29 @@
+@import "tailwindcss";
+html {
+  scroll-behavior: smooth;
+}
+
+@theme {
+  --color-primary: #2563eb;
+  --color-secondary: #7c3aed;
+  --color-accent: #06b6d4;
+  --color-dark: #0f172a;
+  --color-light: #f1f5f9;
+
+  /* Optionally fonts */
+  --font-heading: "Poppins", sans-serif;
+  --font-body: "Inter", sans-serif;
+}
+
+/* Optionally define root variables if you want to reference them in custom CSS */
+:root {
+  --color-primary: #2563eb;
+  --color-secondary: #7c3aed;
+  --color-accent: #06b6d4;
+  --color-dark: #0f172a;
+  --color-light: #f1f5f9;
+  --font-heading: "Poppins", sans-serif;
+  --font-body: "Inter", sans-serif;
+}
+    
+    
