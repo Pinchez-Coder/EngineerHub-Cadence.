@@ -1,12 +1,7 @@
+---
 ## 🌌 Nova Tech
 - is a modern web project built with **React** and **Tailwind CSS**, designed to deliver sleek, responsive, and high-performance user interfaces.  
 Our goal is to merge cutting-edge technology with clean design for a seamless web experience.
-
----
-
-## Live Demo
-
-https://friendly-engine-967rqx4gvqph7jjg-5173.app.github.dev/
 
 ---
 
