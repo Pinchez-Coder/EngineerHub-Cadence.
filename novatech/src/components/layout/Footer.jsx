@@ -37,8 +37,8 @@ const Footer = () => {
           <h4 className="text-white font-semibold mb-4">Contact</h4>
           <ul className="space-y-2 text-sm">
             <li>Email: <a href="mailto:info@novatech.com" className="hover:text-primary">info@novatech.com</a></li>
-            <li>Phone: <span className="text-slate-400">+1 (555) 123-4567</span></li>
-            <li>Address: <span className="text-slate-400">123 Innovation Way, Silicon City</span></li>
+            <li>Phone: <span className="text-slate-400">+(254) 790-520-178</span></li>
+            <li>Address: <span className="text-slate-400">123 Innovation Way, Silver City</span></li>
           </ul>
         </div>
 
