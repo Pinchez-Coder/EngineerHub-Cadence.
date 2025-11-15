@@ -4,6 +4,12 @@ Our goal is to merge cutting-edge technology with clean design for a seamless we
 
 ---
 
+## Live Url
+
+https://eloquent-kitsune-49dc14.netlify.app/
+
+---
+
 ## 🚀 Features
 
 - ⚡ **Fast & Responsive** — Powered by React and Tailwind CSS  
